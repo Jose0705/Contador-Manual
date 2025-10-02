@@ -2,7 +2,7 @@
 {
     public partial class MainPage : ContentPage
     {
-        // conteo lleva el conteo de la aplicgit statusacion
+        // conteo lleva el conteo de la aplic git statusacion
         private int conteo;
         public MainPage()
         {
